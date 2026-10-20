@@ -23,7 +23,7 @@ OpenClaw agents get persistent sessions, but context windows still have limits. 
 
 ### Save current state
 ```bash
-python3 {baseDir}/scripts/wakestate.py save --status "Building budget tracker skill" --task "Finish skill #1, then start skill #2" --note "Travis approved new direction at 16:45 UTC"
+python3 {baseDir}/scripts/wakestate.py save --status "Building budget tracker skill" --task "Finish skill #1, then start skill #2" --note "Owner approved new direction at 16:45 UTC"
 ```
 
 ### Read current state
